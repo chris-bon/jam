@@ -13,7 +13,11 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap-sprockets
-//= require angular.min
+//= require angular
 //= require angular-animate
+//= require forem
+//= require gravtastic
+//= require underscore
+//= require gmaps/google
 //= require app
 //= require_tree .

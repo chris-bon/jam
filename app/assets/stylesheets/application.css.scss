@@ -9,6 +9,8 @@
  * directory. It is generally better to create a new file per style scope.
  *
  *= require animate
+ *= require forem-bootstrap
+ *= require 'forem/base'
  *= require_tree .
  *= require_self
  */
